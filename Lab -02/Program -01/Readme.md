@@ -1,2 +1,2 @@
 
-## screen shot of program 1 and its output 
+## screen shot of codes given as home work and there outputs
